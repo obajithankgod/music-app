@@ -49,13 +49,7 @@ export default {
           title: 'Bad-influence',
           artist: 'Omah_lay',
           src: require('./assets/Omah-Lay-Bad-Influence-(JustNaija.com).mp3')
-        },
-        // {
-        //   title: 'God_Only_You_Knows',
-        //   artist: 'Fireboy',
-        //   src: require('./assets/Fireboy_God_Only_You_Knows_9jaflaver.com_.mp3')
-        // }
-        
+        }
         
       ],
       player: new Audio()
